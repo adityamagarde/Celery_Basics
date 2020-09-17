@@ -1,0 +1,7 @@
+Hello {{name|safe}}
+
+Here is the review that was provided by you.
+{{review|safe}}
+
+
+Thank you!
